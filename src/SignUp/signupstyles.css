@@ -1,0 +1,187 @@
+.side{
+    position: absolute;
+width: 432px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: #114FA2;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo{
+    position: absolute;
+width: 125px;
+height: 170px;
+left: 104px;
+top: 43px;
+color: #fff;
+/* background: url(../Images/Lejhro_logo.png); */
+}
+.box{
+    position: absolute;
+width: 600px;
+height: 650px;
+left: 616px;
+top: 152px;
+
+background: #FFFFFF;
+box-shadow: 4px 8px 16px -1px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+
+}
+
+.email{
+    position: absolute;
+width: 440px;
+height: 50px;
+left: 46px;
+top: 166px;
+padding-left: 20px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 34px;
+color: #969696;
+background: #FFFFFF;
+border: 0.5px solid #2C2C2C;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+
+}
+.address{
+    position: absolute;
+width: 95px;
+height: 17px;
+left: 46px;
+top: 140px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+}
+.head{
+    position: absolute;
+width: 260px;
+height: 29px;
+left: 160px;
+top: 12px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height*/
+color: #000000;
+}
+
+.password{
+    position: absolute;
+    width: 440px;
+    height: 50px;
+left: 46px;
+top: 266px;
+padding-left: 20px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 34px;
+color: #969696;
+background: #FFFFFF;
+border: 0.5px solid #2C2C2C;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+.spanpass{
+    position: absolute;
+width: 66px;
+height: 17px;
+left: 46px;
+top: 240px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+}
+
+.confirm{
+    position: absolute;
+    width: 440px;
+    height: 50px;
+left: 46px;
+top: 376px;
+padding-left: 20px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 34px;
+color: #969696;
+background: #FFFFFF;
+border: 0.5px solid #2C2C2C;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+.pass{
+    position: absolute;
+width: 123px;
+height: 17px;
+left: 46px;
+top: 350px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+}
+
+.captcha{
+    position: absolute;
+    left: 106px;
+top: 450px;
+
+}
+
+.btn{
+    position: absolute;
+    width: 464px;
+    height: 60px;
+padding-left:190px;
+left: 46px;
+top: 550px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+background: #114FA2;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+border-style: none;
+cursor: pointer;
+
+}
+
