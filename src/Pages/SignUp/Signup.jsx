@@ -59,6 +59,8 @@ function SignUp() {
                 <input className="password" type="password" placeholder="Password" onChange={(event) => {
                     console.log(event.target.value);
                     arr[1] = event.target.value;
+                    // let url = new URL()
+                    // console.log(url)
                     if (arr[1].length <= "8") {
                         setAlert(true)
                         setError("Password Should be more than Six Characters")
